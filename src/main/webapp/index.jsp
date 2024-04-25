@@ -30,7 +30,7 @@
 							</div>
 						<div class="content">
 							<div class="inner">
-								<h1>21EEA05 </h1>
+								<h1>21eca32 </h1>
 								<h2>SYSTEM INFO</h2>
 								<a  class="button special"><% out.println(request.getLocalAddr()); %></a>
 								<p>
